@@ -23,6 +23,7 @@ Carefully curated content to help you ace your next technical interview, with a 
 - [Behavioral questions](non-technical/behavioral.md) categorized by companies
 - [Good questions to ask your interviewers](non-technical/questions-to-ask.md) at the end of the interviews
 - [Helpful resume tips](non-technical/resume.md) to get your resume noticed and the Do's and Don'ts
+- [Yet another useful resume tips](https://drive.google.com/file/d/10b9NZDhPbUOW_C7108IKe9ev6Ed2UG7F/view) Resume workshop, which covers a lot of aspects of resume writing from TechLead YouTube channel. 
 
 This handbook is pretty new and help from you in contributing content would be very much appreciated!
 
